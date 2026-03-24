@@ -194,7 +194,7 @@ function Hero() {
           }}
         >
           <img
-            src="https://images.unsplash.com/photo-1629732051597-9bbfc13bdf4a?w=600&q=80"
+            src="https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=600&q=80"
             alt="Spring Collection 2026"
             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
           />
